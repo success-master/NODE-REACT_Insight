@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ba08cdf.chunk.css",
+    "main.js": "/static/js/main.b0a8d128.chunk.js",
+    "main.js.map": "/static/js/main.b0a8d128.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.d55b1fd7.chunk.css": "/static/css/2.d55b1fd7.chunk.css",
+    "static/js/2.b663d29a.chunk.js": "/static/js/2.b663d29a.chunk.js",
+    "static/js/2.b663d29a.chunk.js.map": "/static/js/2.b663d29a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d8b0615e3d905db3bb9910933086d6be.js": "/precache-manifest.d8b0615e3d905db3bb9910933086d6be.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d55b1fd7.chunk.css.map": "/static/css/2.d55b1fd7.chunk.css.map",
+    "static/css/main.4ba08cdf.chunk.css.map": "/static/css/main.4ba08cdf.chunk.css.map",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.9b875ce4.svg",
+    "static/media/style.scss": "/static/media/stage-3.b37ac758.svg",
+    "static/media/google-sheets-icon.svg": "/static/media/google-sheets-icon.9b72a865.svg",
+    "static/media/loading.gif": "/static/media/loading.a21cb694.gif",
+    "static/media/presentation-view.02852947.svg": "/static/media/presentation-view.02852947.svg",
+    "static/media/salesforcse-icon.svg": "/static/media/salesforcse-icon.981de7dc.svg"
+  }
+}
