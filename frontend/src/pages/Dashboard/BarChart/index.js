@@ -98,6 +98,7 @@ const BC = () => {
   const [anchorEl, setAnchorEl] = useState(null);
 
   const handleClick = (event) => {
+    console.log('anchorE1: ', event.currentTarget);
     setAnchorEl(event.currentTarget);
   };
 
